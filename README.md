@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/MatteoBattilana/WeatherView.svg)](https://jitpack.io/#MatteoBattilana/WeatherView)
+[![](https://jitpack.io/v/NguyenDoDuyHai/WeatherView2.svg)](https://jitpack.io/#NguyenDoDuyHai/WeatherView2)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-WeatherView-green.svg?style=true)](https://android-arsenal.com/details/1/4737)
 [![Android Gems](http://www.android-gems.com/badge/MatteoBattilana/WeatherView.svg?branch=master)](http://www.android-gems.com/lib/MatteoBattilana/WeatherView)
 
