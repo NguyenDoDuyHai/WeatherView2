@@ -28,7 +28,7 @@ allprojects {
 Add the dependency:
 ```Gradle
 dependencies {
-    implementation 'com.github.MatteoBattilana:WeatherView:3.0.0'
+    implementation 'com.github.NguyenDoDuyHai:WeatherView2:3.0.0'
 }
 ```
 
